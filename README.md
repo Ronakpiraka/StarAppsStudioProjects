@@ -36,5 +36,4 @@ You will need a web browser and a basic code editor.
     - If you are using a code editor like VSCode, right-click on the `index.html` file and select "Open with Live Server".
     - Alternatively, you can open the `index.html` file directly in your web browser.
 
-## Project Structure
 
